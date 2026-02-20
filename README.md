@@ -8,7 +8,7 @@ I am focused on building a strong foundation in scientific thinking, data analys
 I enjoy exploring how biology, data, and creativity intersect.
 
 ## Portfolio Website
-🔗 Live site: https://anushkahalder16.github.io/my-portfolio/
+🔗 Live site: https://anushkahalder16.github.io/portfolio-website/
 
 ## Skills
 - Biotechnology (Foundational)
